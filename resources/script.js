@@ -4,4 +4,3 @@ if (window.location.href.toString().search(searchText.toString()) < 0 && window.
 		document.getElementById('lst-ib').value = searchText;
 		document.getElementsByClassName('tsf')[0].submit(); 
 	}
-

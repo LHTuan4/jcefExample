@@ -1,0 +1,425 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head itemscope="" itemtype="http://schema.org/WebSite"><title>
+	Mac Center | Apple Store Viet Nam
+</title><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta itemprop="url" content="http://www.maccenter.vn" /><meta name="keywords" content="MacBook Pro, Macbook Air, The New MacBook, iMac, Mac Mini, Mac Pro, Ipad Air, Apple Watch, iPod Shuffle, iPod Nano, iPod Touch" /><meta name="description" content="MacBook Pro - Apple Store Viet Nam" /><link rel="stylesheet" type="text/css" href="css/style.css" /><link rel="stylesheet" type="text/css" href="css/Header.css" /><link rel="shortcut icon" href="images/Apple.ico" />
+     
+    <script type="text/javascript" src="js/Banner.js"></script>
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-46829614-1', 'maccenter.vn');
+      ga('send', 'pageview');
+    </script>
+    
+    <script type="application/ld+json">
+    {  "@context" : "http://schema.org",
+       "@type" : "WebSite",
+       "name" : "Mac Center",
+       "alternateName" : "Mac Center - Apple Store Viet Nam",
+       "url" : "http://www.maccenter.vn"
+    }
+    </script>
+    
+</head>
+<body onload="runSlideShow()">
+    <div id="fb-root"></div>
+    <script>(function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) return;
+      js = d.createElement(s); js.id = id;
+      js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";
+      fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
+    </script>
+
+    <form name="aspnetForm" method="post" action="Index.aspx" id="aspnetForm">
+<div>
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTEwMDUyNjYzMjhkZIXbndSFWKXHi9sN2x29E4FqKiiZ" />
+</div>
+
+<div>
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="90059987" />
+</div>
+    <div>
+        <div id="uberbar">
+            <!-- Header Navigation -->
+            <table style="width: 1200px; background-color:#000000;" align="center" border="0" cellpadding="2" cellspacing="5" >
+                <tr>
+                    <td width="10px"></td>
+                    <td width="135px" align="left">
+                        <a href="index.aspx" class="TitleProduct"><img class="Home" border="1" style="border-color:#8D8D96; border:1px;" title="Mac Center | Apple & Phụ Kiện" alt="Mac Center | Apple & Phụ Kiện" src="images/MacCenter-logo.jpg" width="135" height="90" /></a><br />
+                    </td>
+                    <td width="10px"></td>
+                    <td align="left">
+                        <ul id="menu">
+	                        <li>
+		                        <a href="default.aspx">Store</a>
+		                        <ul>
+		                            <li><a href="AppleWatch.aspx">Apple Watch <span style="color:#009EF9;">(new)</span></a></li>
+		                            <li><a href="MacBook.aspx">MacBook <span style="color:#009EF9;">(new)</span></a></li>
+			                        <li><a href="MacBookAir.aspx">MacBook Air </a></li>
+			                        <li><a href="MacBookPro.aspx">MacBook Pro <span style="color:#009EF9;">(new)</span> </a> </li>
+			                        <li><a href="iMac.aspx">iMac, Mac Mini, Mac Pro </a></li>
+			                        <li><a href="iPhone.aspx">iPhone 7, 7 Plus <span style="color:#009EF9;">(new)</span></a></li>
+			                        <li><a href="iPad.aspx">iPad Pro, iPad Air, iPad Mini</a></li>
+			                        <li><a href="iPod.aspx">iPod Shuffle, Nano, Touch</a></li>
+		                        </ul>
+	                        </li>
+	                        <li>
+	                            <a href="#">Mac Accessories</a>
+	                            <ul>
+	                                <li><a href="Accessories.aspx">Accessories</a></li>
+	                                <li><a href="Mice-Keyboards.aspx">Mice & Keyboards</a></li>
+	                                <li><a href="Monitors-Stand.aspx">Monitors & Stand <span style="color:#009EF9;">(new)</span></a></li>
+	                                <li><a href="Tainghe-Bluetooth.aspx">Tai Nghe Bluetooth</a></li>
+	                                <li><a href="PowerBank.aspx">Pin sạc dự phòng</a></li>
+	                                <li><a href="Cable-Apple.aspx">Cable - Sạc Apple</a></li>
+			                        <li><a href="Accessories-2.aspx">Balo - Túi xách MacBook</a></li>
+			                        <li><a target="_blank" href="http://www.gamemaster.vn">Gaming Gear</a></li>
+		                        </ul>
+	                        </li>
+	                        <li>
+	                            <a href="#">Storage</a>
+	                            <ul>
+	                                <li><a href="Storage.aspx">Ổ cứng lưu trữ</a></li>
+	                                <li><a href="USB-Flash.aspx">USB Flash <span style="color:#009EF9;">(new)</span></a></li>
+	                                <li><a href="Memory-Cards.aspx">Thẻ nhớ SD, CF, MicroSD <span style="color:#009EF9;">(new)</span></a></li>
+	                                <li><a href="NAS.aspx">Lưu trữ mạng & Camera</a></li>
+		                        </ul>
+	                        </li>
+	                        <li>
+	                            <a href="#">Photography</a>
+	                            <ul>
+	                                <li><a href="Fujifilm.aspx">Fujifilm <span style="color:#009EF9;">(new)</span></a></li>
+	                                <li><a href="Canon.aspx">Canon</a></li>
+	                                <li><a href="#">Sony</a></li>
+	                                <li><a href="Memory-Cards.aspx">Memory Cards (MicroSD, SD, CF)</a></li>
+	                            </ul>
+	                        </li>
+	                        <li>
+	                            <a href="Audio.aspx">Audio System</a>
+	                            <ul>
+	                                <li><a href="JBL.aspx">JBL</a></li>
+	                                <li><a href="Bose.aspx">Bose <span style="color:#009EF9;">(new)</span></a></li>
+	                                <li><a href="HarmanKardon.aspx">Harman Kardon</a></li>
+	                                <li><a href="Klipsch-R15PM.aspx">Klipsch R-15PM <span style="color:#009EF9;">(new)</span></a></li>
+	                                <li><a href="KEF.aspx">KEF</a></li>
+	                                <li><a href="Infinity-One.aspx">Infinity</a></li>
+	                                <li><a href="Bowers-Wilkins.aspx">Bowers & Wilkins</a></li>
+	                                <li><a href="BeoPlay.aspx">B&O Play</a></li>
+	                                <li><a href="Speaker.aspx">Philips, Nyne, Logitech</a></li>
+			                        <li><a href="JBL-Cinema.aspx">Soundbar Cinema</a></li>
+		                        </ul>
+	                        </li>
+	                        <li>
+	                            <a href="#">Headphone</a>
+	                            <ul>
+	                                <li><a href="JBL-Headphone.aspx">Tai nghe JBL</a></li>
+	                                <li><a href="SkullCandy.aspx">Tai nghe Skull Candy <span style="color:#009EF9;">(new)</span></a></li>
+	                                <li><a href="AKG.aspx">Tai nghe AKG</a></li>
+	                                <li><a href="Beats.aspx">Tai nghe Beats <span style="color:#009EF9;">(new)</span></a></li>
+	                                <li><a href="AudioTechnica.aspx">Tai nghe Audio Technica</a></li>
+	                                <li><a href="Master-Dynamic.aspx">Tai nghe Master & Dynamic </a></li>
+	                                <li><a href="Philips-Headphone.aspx">Tai nghe Philips </a></li>
+		                        </ul>
+	                        </li>
+	                        <li>
+	                            <a href="Review.aspx">Reviews</a>
+	                        </li>
+	                        <li>
+	                            <a href="Contact.aspx">Liên Hệ</a>
+	                            <ul>
+	                                <li><a href="AppleService.aspx">Dịch Vụ</a></li>
+	                                <li><a href="Contact.aspx">Liên Hệ</a></li>
+	                            </ul>
+	                        </li>
+	                        
+                        </ul>
+                    </td>
+                    <td width="10px"></td>
+                    <td align="right"><div class="fb-like" data-href="https://www.facebook.com/maccenter.vn" data-layout="box_count" data-action="like" data-show-faces="true" data-share="false"></div></td>
+                    <td width="10px"></td>
+                </tr>
+            </table>
+        </div>
+        
+        <div style="height:80px;"></div>
+        <!-- MAIN BODY -->
+        <div>
+            <table style="width: 1200px;" align="center" border="0" cellpadding="0" cellspacing="0">
+                <tr align="center">
+                    <!-- Center Content -->
+                    <td valign="top" align="center" >
+                        
+    <table  width="100%" cellpadding="0" cellspacing="0" border="0">
+        <tr align="center">
+            <td align="center">
+                <a id="SlideLink" href="MacBookPro.aspx"><img border="0" id="SlideShow" title="MacBook Pro 2016" alt="MacBook Pro 2016"  src="Adv_images/MacBookPro-2016.jpg" width="1200" height="675" /></a>        
+            </td>
+        </tr>
+    </table>
+    
+    <table width="100%" cellpadding="0" cellspacing="0" border="0">
+        <tr>
+            <td colspan="3" style="height:80px;"></td>
+        </tr>
+        <tr>
+            <td style="width:33%" align="center" valign="middle">
+                <a href="AppleWatch.aspx" class="TitleProduct"><img title="Apple Watch" alt="Apple Watch"  border="1" style="border-color:#8D8D96; border:1px;" id="img21" src="Images/apple_watch_2x.png" width="200" height="200" /></a> <br /><br />
+                <a href="AppleWatch.aspx" class="TitleProduct">Apple Watch</a>
+            </td>
+            <td style="width:33%"   align="center" valign="middle">
+                <a href="iPhone.aspx" class="TitleProduct"><img title="iPhone" alt="iPhone"  border="1" style="border-color:#8D8D96; border:1px;" id="img22" src="Images/iphone_2x.png" width="200" height="200" /></a> <br /><br />
+                <a href="iPhone.aspx" class="TitleProduct">iPhone </a>
+            </td>
+            <td style="width:33%"   align="center" valign="middle">
+                <a href="iPad.aspx" class="TitleProduct"><img title="iPad" alt="iPad"  border="1" style="border-color:#8D8D96; border:1px;" id="img1" src="Images/ipad_2x.png" width="200" height="200" /></a> <br /><br />
+                <a href="iPad.aspx" class="TitleProduct">iPad </a>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="3" style="height:80px;"></td>
+        </tr>
+        <tr>
+            <td style="width:33%" align="center" valign="middle">
+                <a href="Default.aspx" class="TitleProduct"><img title="Mac Family" alt="Mac Family"  border="1" style="border-color:#8D8D96; border:1px;" id="img2" src="Images/imac_2x.png" width="200" height="200" /></a> <br /><br />
+                <a href="Default.aspx" class="TitleProduct">Mac Family</a>
+            </td>
+            <td style="width:33%"   align="center" valign="middle">
+                <a href="Accessories.aspx" class="TitleProduct"><img title="Apple Accessories" alt="Apple Accessories"  border="1" style="border-color:#8D8D96; border:1px;" id="img3" src="Images/apple_tv_icon_2x.png" width="200" height="200" /></a> <br /><br />
+                <a href="Accessories.aspx" class="TitleProduct">Accessories </a>
+            </td>
+            <td style="width:33%"   align="center" valign="middle">
+                <a href="iPod.aspx" class="TitleProduct"><img title="iPod" alt="iPod"  border="1" style="border-color:#8D8D96; border:1px;" id="img4" src="Images/iPod_family_2x.png" width="200" height="200" /></a> <br /><br />
+                <a href="iPod.aspx" class="TitleProduct">iPod </a>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="3" style="height:80px;"></td>
+        </tr>
+    </table>
+
+                    </td>
+                </tr>
+            </table>
+        </div>
+        
+        <!-- Footer -->
+        <div>
+        <table style="width: 1200px;" align="center" border="0" cellpadding="0" cellspacing="0">
+            <tr>
+                <td><p style="height:10px;"></p></td>
+            </tr>
+            <tr>
+                <td >
+                    <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                        <tr>
+                            <td style="width:100%;" valign="top" bgcolor="#E8E8E8"><img src="images/blank.gif" alt="" width="100%" height="1" border="0" /></td>       
+                        </tr>
+                    </table>
+                    <br /><br />
+                </td>
+            </tr>
+            <tr>
+                <td valign="center">
+                    <table style="width: 100%" align="center" border="0" cellpadding="5" cellspacing="5" >
+                        <tr valign="top">
+                            <td width="20%" align="left">APPLE STORE</td>
+                            <td  width="20%" align="left">MAC ACCESSORIES</td>
+                            <td  width="20%" align="left">AUDIO SYSTEM</td>
+                            <td  width="20%" align="left">HEADPHONE</td>
+                            <td  width="20%" align="left">THÔNG TIN MỞ RỘNG</td>
+                        </tr>
+                        <tr valign="top">
+                            <td>
+                                <ul style="list-style-type:none; padding:0px; margin:0px;">
+                                    <li style="padding-top:8px;"><a class="MainMenu" href="AppleWatch.aspx" >Apple Watch</a></li>
+                                    <li style="padding-top:8px;"><a class="MainMenu" href="MacBook.aspx" >MacBook</a></li>
+                                    <li style="padding-top:8px;"><a class="MainMenu" href="MacBookPro.aspx" >MacBook Pro</a></li>
+                                    <li style="padding-top:8px;"><a class="MainMenu" href="MacBookAir.aspx" >MacBook Air</a></li>
+                                    <li style="padding-top:8px;"><a class="MainMenu" href="iMac.aspx" >iMac, Mac Mini, Mac Pro</a></li>
+                                    <li style="padding-top:8px;"><a class="MainMenu" href="iPad.aspx" >iPad Pro, iPad Air, iPad Mini</a></li>
+                                    <li style="padding-top:8px;"><a class="MainMenu" href="iPhone.aspx" >iPhone 6S, 6S Plus</a></li>
+                                    <li style="padding-top:8px;"><a class="MainMenu" href="iPod.aspx" >iPod Shuffle, Nano, Touch</a></li>
+                                </ul>
+                            </td>
+                            
+                            <td>
+                                <ul style="list-style-type:none; padding:0px; margin:0px;">
+                                    <li style="padding-top:8px;"><a class="MainMenu" href="Accessories.aspx" >Apple Accessories</a></li>
+                                    <li style="padding-top:8px;"><a class="MainMenu" href="Storage.aspx" >Mac Storage</a></li>
+                                    <li style="padding-top:8px;"><a class="MainMenu" href="Tainghe-Bluetooth.aspx" >Tai nghe Bluetooth</a></li>
+                                    <li style="padding-top:8px;"><a class="MainMenu" href="PowerBank.aspx" >Pin sạc dự phòng</a></li>
+                                    <li style="padding-top:8px;"><a class="MainMenu" href="Cable-Apple.aspx" >Cable, sạc Apple</a></li>
+                                    <li style="padding-top:8px;"><a class="MainMenu" href="Accessories-2.aspx" >Balo - Túi xách - Case MacBook</a></li>
+                                    <li style="padding-top:8px;"><a class="MainMenu" href="Accessories-iPad.aspx" >Case iPhone, iPad</a></li>
+                                </ul>
+                            </td>
+                            
+                            <td>
+                                <ul style="list-style-type:none; padding:0px; margin:0px;">
+                                    <li style="padding-top:8px;"><a class="MainMenu" href="JBL.aspx" >JBL</a></li>
+                                    <li style="padding-top:8px;"><a class="MainMenu" href="Bose.aspx" >Bose</a></li>
+                                    <li style="padding-top:8px;"><a class="MainMenu" href="HarmanKardon.aspx" >Harman Kardon</a></li>
+                                    <li style="padding-top:8px;"><a class="MainMenu" href="KEF.aspx" >KEF</a></li>
+                                    <li style="padding-top:8px;"><a class="MainMenu" href="Infinity-One.aspx" >Infinity</a></li>
+                                    <li style="padding-top:8px;"><a class="MainMenu" href="Bowers-Wilkins.aspx" >Bowers & Wilkins</a></li>
+                                    <li style="padding-top:8px;"><a class="MainMenu" href="BeoPlay.aspx" >B&O Play</a></li>
+                                    <li style="padding-top:8px;"><a class="MainMenu" href="Speaker.aspx" >Philips & Sản phẩm khác...</a></li>
+                                    <li style="padding-top:8px;"><a class="MainMenu" href="Nyne-NB230.aspx" >Nyne</a></li>
+                                    <li style="padding-top:8px;"><a class="MainMenu" href="JBL-Cinema.aspx" >Soundbar Cinema</a></li>
+                                </ul>
+                            </td>
+                            
+                            <td>
+                                <ul style="list-style-type:none; padding:0px; margin:0px;">
+                                    <li style="padding-top:8px;"><a class="MainMenu" href="JBL-Headphone.aspx" >Tai nghe JBL</a></li>
+                                    <li style="padding-top:8px;"><a class="MainMenu" href="AKG.aspx" >Tai nghe AKG</a></li>
+                                    <li style="padding-top:8px;"><a class="MainMenu" href="AudioTechnica.aspx" >Tai nghe Audio Technica</a></li>
+                                    <li style="padding-top:8px;"><a class="MainMenu" href="SkullCandy.aspx" >Tai nghe Skull Candy</a></li>
+                                    <li style="padding-top:8px;"><a class="MainMenu" href="Philips-Headphone.aspx" >Tai nghe Philips</a></li>
+                                    <li style="padding-top:8px;"><a class="MainMenu" href="Master-Dynamic.aspx" >Tai nghe Master & Dynamic</a></li>
+                                    <li style="padding-top:8px;"><a class="MainMenu" href="Sennheiser.aspx" >Tai nghe Sennheiser</a></li>
+                                </ul>
+                            </td>
+                            
+                            <td>
+                                <ul style="list-style-type:none; padding:0px; margin:0px;">
+                                    <li style="padding-top:8px;"><a class="MainMenu" href="Warranty.aspx" >Chính sách bảo hành</a></li>
+                                    <li style="padding-top:8px;"><a class="MainMenu" href="Warranty.aspx" >Chính sách đổi trả</a></li>
+                                    <li style="padding-top:8px;"><a class="MainMenu" href="PersonalInfo.aspx" >Chính sách bảo mật thông tin</a></li>
+                                    <li style="padding-top:8px;"><a class="MainMenu" href="appleservice.aspx" >Dịch vụ</a></li>
+                                    <li style="padding-top:8px;"><a class="MainMenu" href="Contact.aspx" >Liên hệ</a></li>
+                                </ul>
+                            </td>     
+                        </tr>
+                        <tr valign="top">
+                            <td colspan="5">
+                                <div style="height:10px;"></div>   
+                            </td>
+                        </tr>
+                    </table>
+                    
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <table style="width: 100%" align="center" border="0" cellpadding="5" cellspacing="5" >
+                        <tr>
+                            <td>
+                                <div class="fb-like" data-href="https://www.facebook.com/maccenter.vn" data-layout="standard" data-action="like" data-show-faces="false" data-share="true"></div>        
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+        </table>
+        </div>
+        <!-- ADDRESS -->
+        <div>
+        <table style="width: 1200px; background-color:#000000;" align="center" border="0" cellpadding="2" cellspacing="5">
+            <tr>
+                <td width="10px"></td>
+                <td align="left">
+                    <!-- Banner THONG TIN LIEN HE MAC CENTER -->
+                    <table width="100%"  border="0" cellpadding="2" cellspacing="5">
+                        <tr>
+                            <td colspan="2" style="height:5px;"></td>
+                        </tr>
+                        <tr>
+                            <td colspan="2" align="left">
+                                <img title="Mac Center - Apple Store Viet Nam" alt="Apple Store Viet Nam" src="images/MacCenter.png" width="300" height="60" />        
+                            </td>
+                        </tr>
+                        <tr>
+                            <td colspan="2" align="left" style="color:#999;">
+                                Được thiết lập từ năm 2008, Mac Center được ghi nhận là một trong những Apple Store Việt Nam. Với hơn 5 năm kinh nghiệm về lĩnh vực kinh doanh về các dòng máy tính Mac, nay
+                                Mac Center đã trở thành một trong những cửa hàng chuyên cung cấp các sản phẩm và dịch vụ Apple tốt nhất tại Việt Nam.<br /><br />
+                            </td>
+                        </tr>
+                        <tr>
+                            <td colspan="2" align="left"><table border="0" cellpadding="0" cellspacing="0" width="100%"><tr><td style="width:100%;" valign="top" bgcolor="#5a5a5a"><img src="images/blank.gif" alt="" width="100%" height="1" border="0" /></td></tr></table></td>
+                        </tr>
+                        <tr>
+                            <td width="50%" align="left" valign="top">
+                                <ul style="list-style-type:none; padding:0px; margin:0px; color:#999;">
+                                    <li style="padding-top: 8px; color:#fafafa"><b>MAC CENTER TÔN THẤT TÙNG</b> (Main Showroom)</li>
+                                    <li style="padding-top:8px;">96A Tôn Thất Tùng, Phường Bến Thành , Quận 1, TP. HCM, Việt Nam.</li>
+                                    <li style="padding-top:8px;">Tel: (84-8) 3925.2980 - (84-8) 3925.2981 - Hotline: 090909.4641</li>
+                                    <li style="padding-top:8px;"><b>E-mail:</b> <a class="MainMenu" href="mailto:contact@maccenter.vn">contact@maccenter.vn</a></li>
+                                    <li style="padding-top:8px;"><b>Website:</b> <a class="MainMenu" target="_blank" href="http://www.maccenter.vn">www.maccenter.vn</a> - <a class="MainMenu" target="_blank" href="http://www.maccenter.com.vn">www.maccenter.com.vn</a> </li>
+                                </ul>
+                            </td>
+                            <td width="50%" align="left"  valign="top">
+                                <ul style="list-style-type:none; padding:0px; margin:0px; color:#999;">
+                                    <li style="padding-top:8px; color:#fafafa"><b>MAC CENTER NGUYỄN THỊ MINH KHAI</b></li>
+                                    <li style="padding-top:8px;">121 Nguyễn Thị Minh Khai, Phường Bến Thành, Quận 1, TP. HCM, Việt Nam.</li>
+                                    <li style="padding-top:8px;">Tel: (84-8) 6654.6655 - Hotline: 090909.7396</li>
+                                </ul>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+                <td width="10px"></td>
+            </tr>
+            <tr>
+                <td width="10px"></td>
+                <td>
+                    <!-- Banner JBL, AKG, Harman Kardon, Philips, Infinity -->
+                    <table width="100%" cellpadding="0" cellspacing="0" border="0">
+                        <tr>
+                            <td colspan="6" style="height:30px;"></td>
+                        </tr>
+                        <tr>
+                            <td align="center" valign="middle">
+                                <a href="http://www.maccenter.vn/JBL.aspx" class="TitleProduct"><img class="Home" title="JBL" alt="JBL"  border="1" style="border-color:#8D8D96; border:1px;" id="img21" src="Images/footer-logo-jbl.png" /></a>
+                            </td>
+                            <td   align="center" valign="middle">
+                                <a href="http://www.maccenter.vn/Bose.aspx" class="TitleProduct"><img class="Home" title="Bose" alt="Bose"  border="1" style="border-color:#8D8D96; border:1px;" id="img3" src="Images/footer-logo-bose.png" /></a>
+                            </td>
+                            <td    align="center" valign="middle">
+                                <a href="http://www.maccenter.vn/HarmanKardon.aspx" class="TitleProduct"><img class="Home" title="Harman Kardon" alt="Harman Kardon"  border="1" style="border-color:#8D8D96; border:1px;" id="img22" src="Images/footer-logo-hk.png" /></a>
+                            </td>
+                            <td    align="center" valign="middle">
+                                <a href="http://www.maccenter.vn/AKG.aspx" class="TitleProduct"><img class="Home" title="AKG Headphone" alt="AKG Headphone"  border="1" style="border-color:#8D8D96; border:1px;" id="img4" src="Images/footer-logo-akg.png" /></a>
+                            </td>
+                            <td   align="center" valign="middle">
+                                <a href="http://www.maccenter.vn/SkullCandy.aspx" class="TitleProduct"><img class="Home" title="Skull Candy Headphone" alt="Skull Candy Headphone"  border="1" style="border-color:#8D8D96; border:1px;" id="img2" src="Images/footer-logo-SkullCandy.png" width="130" height="45" /></a>
+                            </td>
+                            <td    align="center" valign="middle">
+                                <a href="http://www.maccenter.vn/Speaker.aspx" class="TitleProduct"><img class="Home" title="Philips" alt="Philips"  border="1" style="border-color:#8D8D96; border:1px;" id="img1" src="Images/footer-logo-philips.png" /></a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td colspan="6" style="height:30px;"></td>
+                        </tr>
+                        <tr>
+                            <td colspan="6" align="center" valign="middle" style="font-size:11px; color:#353535;">
+                                <b>Chủ sở hữu Website:</b>  Ông Nguyễn Thế Tài - Công ty TNHH Mac Center | 
+                                <b>Địa chỉ:</b> 6/59 Đường số 3, cx Lữ Gia, P.15, Q.11, TP. HCM | 
+                                <b>Phone: (84-8) 3925.4708</b> - <b>Giấy chứng nhận ĐKKD: </b> 0312037485.
+                            </td>
+                        </tr>
+                        <tr>
+                            <td colspan="6" style="height:10px;"></td>
+                        </tr>
+                    </table>
+                </td>
+                <td width="10px"></td>
+            </tr>
+        </table>
+        </div>
+        
+        <br />
+    </div>
+    </form>
+</body>
+</html>

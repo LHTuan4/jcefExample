@@ -1,0 +1,638 @@
+<!DOCTYPE html><html>
+<head>
+	<meta name="viewport" content="width=device-width, height=device-height, initial-scale=1, maximum-scale=1, user-scalable=0">
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><link href="/webroot/favicon.ico" type="image/x-icon" rel="icon" /><link href="/webroot/favicon.ico" type="image/x-icon" rel="shortcut icon" /><title>Quy trình vệ sinh kính áp tròng chuẩn</title><meta name="keywords" content="kinh ap trong; kính áp tròng" /><meta name="description" content="Hướng dẫn chi tiết quy trình vệ sinh kính áp tròng." /><meta name='author' content='kinhaptrong4u.vn'><link rel='canonical' href='http://kinhaptrong4u.vn/cam-nang-tu-van/quy-trinh-ve-sinh-kinh-ap-trong-chuan.html'/>
+	<link rel="stylesheet" type="text/css" href="/css/bootstrap.min.css" />
+	<link rel="stylesheet" type="text/css" href="/css/bootstrap-theme.min.css" />
+	<link rel="stylesheet" type="text/css" href="/css/template1/style.css" />
+
+	<script type="text/javascript" src="/js/jquery-1.9.1.min.js"></script>
+	<script type="text/javascript" src="/js/bootstrap.min.js"></script>
+	<script type="text/javascript" src="/js/jquery.carouFredSel.js"></script>
+	<script type="text/javascript" src="/js/oneweb.js"></script>
+	<!--[if IE 7]>
+		<link rel="stylesheet" type="text/css" href="/css/template1/ie7.css" />	<![endif]-->
+	
+	<!--[if lt IE 9]>
+		
+	<script type="text/javascript" src="/js/html5.js"></script>
+	<script type="text/javascript" src="/js/respond.min.js"></script>
+	<![endif]-->
+	<meta property="og:site_name" content="Quy trình vệ sinh kính áp tròng chuẩn" />
+	<meta property="og:image" content="/webroot/img/logo.png" />
+    <meta name="google-site-verification" content="CP3ehrXnIzjmXQi_3gHfeBEq3jli5T6qMn51jdycQUc" />
+</head>
+<body>
+	<div id="nav_top" class="full_width top_header">
+		<div class="container">
+			<div class="row">
+				<div class="col-xs-12">
+	<ul class="nav_top_menu menu_top_left">
+		<li>
+						Hotline: <a href="tel:0982315459"><span>0982315459</span></a>
+			; <a href="tel: 0981218993"><span> 0981218993</span></a>						<span class="line_nav_top">|</span>	
+		</li>
+		<li>
+			<a href="tel:0982315459">Viber: <span>0982315459</span></a>
+			<span class="line_nav_top">|</span>	
+		</li>
+		<li>
+			<a href="tel:0982315459">Zalo: <span>0982315459</span></a>
+			<span class="line_nav_top">|</span>	
+		</li>
+				<li>
+			<p class="nick">Hỗ trợ trực tuyến: </p>
+						<p class="nick skype">
+				<a href="skype:trungnh89?chat" onclick="return skypeCheck();" title="Chat skype với Hỗ trợ Kinhaptrong4u (trungnh89)" rel="nofollow"><img src="/img/skype18.png" skype icon="skype icon" alt="" /></a>
+			</p>
+						<p class="nick yahoo">
+				<a title="Chat yahoo với Hỗ trợ Kinhaptrong4u (kinhaptrong4u)" href="ymsgr:sendIM?kinhaptrong4u" rel="nofollow">
+					<img alt="Yahoo" src="http://opi.yahoo.com/online?u=kinhaptrong4u&amp;m=g&amp;t=1&amp;img/&amp;l=us">
+				</a>
+			</p>
+					</li>
+						</ul> <!--  end .nav -->
+	<div id="bt_hotline">
+				Hotline: <a href="tel:0982315459"><span>0982315459</span></a>
+		; <a href="tel: 0981218993"><span> 0981218993</span></a>			</div>
+	<ul class="nav_top_menu right">
+					<li class="cart">
+				<span class="icon icon_cart"></span>
+				<a href="javascript:;" title="Giỏ hàng" onclick="showCart()">Giỏ hàng</a><span class="number_product_cart"></span>				<span class="line_nav_top">|</span>	
+		</li>
+				<li><a href="/huong-dan-mua-hang" title="Hướng dẫn mua hàng" target="_self">Hướng dẫn mua hàng</a></li>	</ul>
+</div> <!--  end .top -->
+			<script>
+$(document).ready(function() {
+   $(window).on('scroll', function() {
+        var scrollTop = $(window).scrollTop();
+        if (scrollTop > 0) {
+            $("#nav_top").addClass("navbar-fixed-top");
+        }
+        else {
+            $("#nav_top").removeClass("navbar-fixed-top");
+        }
+    });
+});
+</script>			</div>
+		</div>
+	</div>
+	<div class="full_width header">
+		<div class="container">
+			<div class="row">
+				<header id="header">
+	<div class="middle">
+		<div class="col-xs-7 col-sm-5 col-md-6">
+		<a href="/" title="Kính áp trong 4u" class="logo"><img src="/img/logo.png" alt="kinhaptrong4u.vn" /></a>		</div>
+					<div class="search col-xs-12 col-sm-7 col-md-6">
+			<div class="icon idQR"></div>	
+			<form action="/result-search" id="form-filter-basic" class="" method="post" accept-charset="utf-8"><div style="display:none;"><input type="hidden" name="_method" value="POST"/></div><input type="hidden" name="data[Filter][type]" value="1" id="FilterType"/>			<p id="text_seach">Quét mã QR để tìm chúng tôi trên Zalo</p>
+			<ul>
+				<li><input name="data[Filter][product_name]" placeholder="Tìm kiếm" value="" class="form-control" id="filter_basic" type="text"/></li>
+				<li><input  class="submit icon" type="submit" value="Tìm kiếm"/></li>
+			</ul>
+			</form>	
+			
+		</div> <!--  end .search -->
+			</div> <!--  end .middle -->
+		<!-- Begin menu -->
+	<nav class="navbar navbar-transform" role="navigation">
+		<!-- Brand and toggle get grouped for better mobile display -->
+		<div class="navbar-header">
+			<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+				<span class="sr-only">Toggle navigation</span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			</button>
+<!-- 			<a class="navbar-brand" href="#">HOME</a> -->
+		</div>
+		<!-- Collect the nav links, forms, and other content for toggling -->
+		<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+			<ul class="nav navbar-nav">
+				<li  class=""><a href="/" title="Trang chủ"><span>Trang chủ</span></a></li>
+				<li><a href="/gioi-thieu" title="Giới thiệu" target="_self">Giới thiệu</a></li>				<!-- product -->
+				<li class="dropdown">
+					<a href="javascript:;" class="dropdown-toggle" data-toggle="dropdown" aria-expanded="1">Sản phẩm<span class="caret"></a>					<ul class="dropdown-menu">
+												<li class="dropdown">
+							<a href="/kinh-ap-trong">Kính áp tròng</a>							<ul class="dropdown-menu">
+															<li><a href="/menicon-nhat-ban" title="Menicon - Nhật Bản" target="_self">Menicon - Nhật Bản<i class="icon-arrow-right"></i></a></li>
+															<li><a href="/maxvue-color-phantasee" title="Maxvue Color (Phantasee)" target="_self">Maxvue Color (Phantasee)<i class="icon-arrow-right"></i></a></li>
+															<li><a href="/maxvue-vision1" title="Maxvue Vision (Clear)" target="_self">Maxvue Vision (Clear)<i class="icon-arrow-right"></i></a></li>
+															<li><a href="/eos-han-quoc1" title="EOS Hàn Quốc" target="_self">EOS Hàn Quốc<i class="icon-arrow-right"></i></a></li>
+														</ul>
+						</li>
+												<li class="dropdown">
+							<a href="/kinh-gian-trong">Kính giãn tròng</a>							<ul class="dropdown-menu">
+															<li><a href="/maxvue-color-phantasee1" title="Maxvue Color (Phantasee)" target="_self">Maxvue Color (Phantasee)<i class="icon-arrow-right"></i></a></li>
+															<li><a href="/eos-han-quoc2" title="EOS Hàn Quốc" target="_self">EOS Hàn Quốc<i class="icon-arrow-right"></i></a></li>
+														</ul>
+						</li>
+												<li class="dropdown">
+							<a href="/nuoc-ngam-va-nho-mat">Nước ngâm và nhỏ mắt</a>							<ul class="dropdown-menu">
+															<li><a href="/complete" title="Complete" target="_self">Complete<i class="icon-arrow-right"></i></a></li>
+															<li><a href="/max-optifresh" title="Max Optifresh" target="_self">Max Optifresh<i class="icon-arrow-right"></i></a></li>
+														</ul>
+						</li>
+												<li class="dropdown">
+							<a href="/phu-kien">Phụ kiện</a>							<ul class="dropdown-menu">
+															<li><a href="/hop-dung-kinh-mini" title="Hộp đựng kính mini" target="_self">Hộp đựng kính mini<i class="icon-arrow-right"></i></a></li>
+															<li><a href="/khay-dung-mat-kinh" title="Khay đựng mắt kính" target="_self">Khay đựng mắt kính<i class="icon-arrow-right"></i></a></li>
+														</ul>
+						</li>
+											</ul>
+				</li>
+				<!-- post -->
+								<li><a href="/tin-tuc-khuyen-mai" title="Tin tức - Khuyến mại" target="_self">Tin tức - Khuyến mại</a></li>
+								<li><a href="/cam-nang-tu-van" title="Cẩm nang - tư vấn" target="_self">Cẩm nang - tư vấn</a></li>
+								<li><a href="/tin-tuc-khuyen-mai/dung-thu-ap-trong-miru-mien-phi" title="DÙNG THỬ ÁP TRÒNG MIRU MIỄN PHÍ" target="_self">DÙNG THỬ ÁP TRÒNG MIRU MIỄN PHÍ</a></li>
+												<li><a href="/anh" title="Hình ảnh"><span>Hình ảnh</span></a>									</li>
+												<li class="last"><a href="/lienhe.html" title="Liên hệ" rel="nofollow"><span>Liên hệ</span></a></li>
+							</ul>
+		</div><!-- .navbar-collapse -->
+	</nav>
+<!-- End Menu -->	
+</header> <!--  end #header -->			</div>
+		</div>
+	</div>
+	<div class="full_width line_f"></div>
+	<div class="full_width slide_show bg_3">
+		<div class="container">
+					</div>
+			<div id="breadcrumb" class="container">
+			<ol class="breadcrumb">
+		<li><a href="/" title="Trang chủ" rel="nofollow">Home</a></li>
+		<li>
+		<a href="/posts/index/lang:vi/slug0:cam-nang-tu-van" title="Cẩm nang - tư vấn" rel="nofollow">Cẩm nang - tư vấn</a>	</li>
+		<li>
+		Quy trình vệ sinh kính áp tròng chuẩn	</li>
+	</ol>		</div>
+			<div class="container detail_post">
+						<div class="row">
+				<div class="col-md-3 col-sm-3" role="navigation">
+<aside class="box box_search">
+	<div class="title">
+		<span class="icon"></span>
+		<span class="title_text">Tìm kiếm sản phẩm</span>
+	</div>
+	
+	<form action="/result-search" id="FilterIndexForm" method="post" accept-charset="utf-8"><div style="display:none;"><input type="hidden" name="_method" value="POST"/></div>		<ul id="search_product">
+				<li><select name="data[Filter][product_category]" class="form-control" id="FilterProductCategory">
+<option value="">-- Danh mục --</option>
+<option value="126">Kính áp tròng</option>
+<option value="127">Kính giãn tròng</option>
+<option value="128">Nước ngâm và nhỏ mắt</option>
+<option value="129">Phụ kiện</option>
+</select></li>
+				<li><select name="data[Filter][product_maker]" class="form-control" id="FilterProductMaker">
+<option value="">-- Hãng sản xuất --</option>
+<option value="39">Menicon</option>
+<option value="34">Maxvue Vision</option>
+<option value="35">EOS</option>
+<option value="43">CooperVision</option>
+</select></li>
+				
+		<li><select name="data[Filter][product_color]" class="form-control" id="FilterProductColor">
+<option value="">-- Màu sắc --</option>
+<option value="7">Black - Đen</option>
+<option value="8">Blue - Xanh dương</option>
+<option value="9">Green - Xanh lá</option>
+<option value="10">Brown - Nâu</option>
+<option value="11">Gray - Xám</option>
+<option value="12">Violet - Tím</option>
+<option value="13">Clear - Không màu</option>
+</select></li>
+		<li><select name="data[Filter][product_diameter]" class="form-control" id="FilterProductDiameter">
+<option value="">-- Đường kính --</option>
+<option value="3">14.0 mm</option>
+<option value="5">14.2 mm</option>
+<option value="6">14.5 mm</option>
+<option value="7">14.8 mm</option>
+<option value="8">15.0 mm</option>
+</select></li>
+		<li id="sighted">
+		<input type="radio" name="data[Filter][sighted]" id="FilterSighted0" value="0" class="sighted" checked="checked" /><label for="FilterSighted0">Có độ cận</label><input type="radio" name="data[Filter][sighted]" id="FilterSighted1" value="1" class="sighted" /><label for="FilterSighted1">Không độ cận</label>		</li>
+	</ul>
+		<div class="submit"><input  class="icon btn_search right" type="submit" value="Tìm kiếm"/></div>	
+	</form>		
+</aside> <!--  end .box --><aside class="box category  hidden-xs">
+	<div class="title">
+		<span class="icon"></span>
+		<h2><span class="title_text">Kính áp tròng</span></h2>
+	</div>
+	<div class="nav-v" id="tree_0">
+		
+<ul class='nav'>
+ <li><span class="icon"></span><a href="/kinh-ap-trong/menicon-nhat-ban" title="Menicon - Nhật Bản" target="_self"><h3>Menicon - Nhật Bản</h3></a></li>
+ <li><span class="icon"></span><a href="/kinh-ap-trong/maxvue-color-phantasee" title="Maxvue Color (Phantasee)" target="_self"><h3>Maxvue Color (Phantasee)</h3></a></li>
+ <li><span class="icon"></span><a href="/kinh-ap-trong/maxvue-vision1" title="Maxvue Vision (Clear)" target="_self"><h3>Maxvue Vision (Clear)</h3></a></li>
+ <li><span class="icon"></span><a href="/kinh-ap-trong/eos-han-quoc1" title="EOS Hàn Quốc" target="_self"><h3>EOS Hàn Quốc</h3></a></li>
+</ul>						
+		<div class="clear"></div>				
+	</div> <!--  end #tree -->
+</aside> <!--  end .box -->
+<aside class="box category  hidden-xs">
+	<div class="title">
+		<span class="icon"></span>
+		<h2><span class="title_text">Kính giãn tròng</span></h2>
+	</div>
+	<div class="nav-v" id="tree_1">
+		
+<ul class='nav'>
+ <li><span class="icon"></span><a href="/kinh-gian-trong/maxvue-color-phantasee1" title="Maxvue Color (Phantasee)" target="_self"><h3>Maxvue Color (Phantasee)</h3></a></li>
+ <li><span class="icon"></span><a href="/kinh-gian-trong/eos-han-quoc2" title="EOS Hàn Quốc" target="_self"><h3>EOS Hàn Quốc</h3></a></li>
+</ul>						
+		<div class="clear"></div>				
+	</div> <!--  end #tree -->
+</aside> <!--  end .box -->
+<aside class="box category  hidden-xs">
+	<div class="title">
+		<span class="icon"></span>
+		<h2><span class="title_text">Nước ngâm và nhỏ mắt</span></h2>
+	</div>
+	<div class="nav-v" id="tree_2">
+		
+<ul class='nav'>
+ <li><span class="icon"></span><a href="/nuoc-ngam-va-nho-mat/complete" title="Complete" target="_self"><h3>Complete</h3></a></li>
+ <li><span class="icon"></span><a href="/nuoc-ngam-va-nho-mat/max-optifresh" title="Max Optifresh" target="_self"><h3>Max Optifresh</h3></a></li>
+</ul>						
+		<div class="clear"></div>				
+	</div> <!--  end #tree -->
+</aside> <!--  end .box -->
+<aside class="box category  hidden-xs">
+	<div class="title">
+		<span class="icon"></span>
+		<h2><span class="title_text">Phụ kiện</span></h2>
+	</div>
+	<div class="nav-v" id="tree_3">
+		
+<ul class='nav'>
+ <li><span class="icon"></span><a href="/phu-kien/hop-dung-kinh-mini" title="Hộp đựng kính mini" target="_self"><h3>Hộp đựng kính mini</h3></a></li>
+ <li><span class="icon"></span><a href="/phu-kien/khay-dung-mat-kinh" title="Khay đựng mắt kính" target="_self"><h3>Khay đựng mắt kính</h3></a></li>
+</ul>						
+		<div class="clear"></div>				
+	</div> <!--  end #tree -->
+</aside> <!--  end .box -->
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/vi_VN/sdk.js#xfbml=1&version=v2.0";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<div class="block-sidebar box likebox  hidden-xs">
+	<div class="block-title">
+		<div class="title"><span class="icon"></span>
+		<span class="title_text">Mạng xã hội</span>
+		</div>
+		<span style="display:none;" class="glyphicon glyphicon-chevron-right"></span>
+	</div>
+	
+	<div class="block-content like_box">
+		<div class="fb-like-box" data-href="https://www.facebook.com/kinhaptrong4u​" data-width="275" data-height="239" data-colorscheme="light" data-show-faces="true" data-header="false" data-stream="false" data-show-border="false"></div>
+	</div>
+</div> <!--  end .box -->
+
+</div>
+<div class="col-xs-12 col-sm-9 col-md-9">
+	<article class="box_content read">
+	<header class="title">
+		<div class="title_right">
+			<div class="title_center">
+				<h1><span>Quy trình vệ sinh kính áp tròng chuẩn</span></h1>
+			</div> <!--  end .title_center -->
+		</div> <!--  end .title_right -->
+	</header> <!--  end .title -->
+	<div class="des">
+		<p><span style="font-size:14px">C&agrave;ng ng&agrave;y c&agrave;ng c&oacute; nhiều người bị vi&ecirc;m mắt do d&ugrave;ng k&iacute;nh &aacute;p tr&ograve;ng, điều n&agrave;y chứng tỏ mọi người chưa thực sự quan t&acirc;m đến việc vệ sinh k&iacute;nh &aacute;p tr&ograve;ng trong khi sử dụng hoặc thực hiện chưa đ&uacute;ng c&aacute;ch.</span></p>
+
+<p><span style="font-size:14px">Để bảo vệ đ&ocirc;i mắt to&agrave;n diện khi sử dụng k&iacute;nh &aacute;p tr&ograve;ng, c&aacute;c bạn cần nắm chắc Quy tr&igrave;nh vệ sinh k&iacute;nh &aacute;p tr&ograve;ng chuẩn sau đ&acirc;y:</span></p>
+
+<h2><strong>1. Cắt ngắn m&oacute;ng tay trước khi bạn quyết định d&ugrave;ng k&iacute;nh &aacute;p tr&ograve;ng</strong></h2>
+
+<p><span style="font-size:14px">Bạn c&oacute; thể chỉ cắt ngắn m&oacute;ng tay ở những ng&oacute;n d&ugrave;ng để thao t&aacute;c với k&iacute;nh &aacute;p tr&ograve;ng như ng&oacute;n trỏ, ng&oacute;n giữa, ng&oacute;n c&aacute;i.</span></p>
+
+<p><span style="font-size:14px">Việc cắt ngắn m&oacute;ng tay (ngắn tuyệt đối nha) gi&uacute;p bảo vệ khỏi vi khuẩn trong m&oacute;ng x&acirc;m nhập v&agrave;o k&iacute;nh v&agrave; tr&aacute;nh l&agrave;m tổn thương gi&aacute;c mạc khi bạn th&aacute;o lắp k&iacute;nh. Đa số c&aacute;c bạn mới đoe k&iacute;nh &aacute;p tr&ograve;ng sẽ gặp phải trường hợp n&agrave;y v&agrave; bị đỏ mắt ngay trong lần đầu đeo k&iacute;nh.</span></p>
+
+<p><img alt="vệ sinh kính áp tròng" src="/webroot/img/images/ve-sinh-kinh-ap-trong-1.jpg" style="height:183px; line-height:1.6em; width:276px" /></p>
+
+<h2><strong>2. Lu&ocirc;n rửa tay bằng x&agrave; ph&ograve;ng v&agrave; thấm kh&ocirc; tay trước khi thao t&aacute;c với k&iacute;nh &aacute;p tr&ograve;ng</strong></h2>
+
+<p><span style="font-size:14px">Rửa tay bằng x&agrave; ph&ograve;ng l&agrave; bước cực kỳ quan trọng, h&agrave;ng ng&agrave;y tay của bạn tiếp x&uacute;c với rất nhiều loại vi khuẩn kh&aacute;c nhau v&agrave; đương nhi&ecirc;n l&agrave; mắt thường kh&ocirc;ng thể nh&igrave;n thấy được, nếu bạn kh&ocirc;ng rửa tay bằng x&agrave; ph&ograve;ng diệt khuẩn trước khi thao t&aacute;c với k&iacute;nh th&igrave; cầm chắc đến 80% l&agrave; bạn sẽ bị vi&ecirc;m mắt do ch&iacute;nh c&aacute;c con vi khuẩn từ tay bạn nhiễm v&agrave;o.</span></p>
+
+<h3><img alt="vệ sinh kính áp tròng" src="/webroot/img/images/ve-sinh-kinh-ap-trong-2.jpg" style="font-size:13px; height:184px; line-height:1.6em; width:275px" /></h3>
+
+<h2><strong>3. Lu&ocirc;n cọ rửa k&iacute;nh mỗi khi th&aacute;o k&iacute;nh ra khỏi mắt</strong></h2>
+
+<p><span style="font-size:14px">Khi bạn đeo k&iacute;nh &aacute;p tr&ograve;ng, c&aacute;c bụi bẩn &ocirc; nhiễm từ trong kh&ocirc;ng kh&iacute; sẽ tiếp x&uacute;c với k&iacute;nh, ngay trong tuyến lệ của bạn cũng c&oacute; rất nhiều c&aacute;c chất tạo mảng b&aacute;m tr&ecirc;n k&iacute;nh như Protein, lipit ... C&aacute;c chất bẩn n&agrave;y sẽ b&aacute;m rất chặt v&agrave;o k&iacute;nh v&igrave; vậy bạn cần c&oacute; động t&aacute;c cọ rửa k&iacute;nh mỗi khi th&aacute;o k&iacute;nh ra khỏi mắt (nhớ l&agrave; thực hiện bất cứ khi n&agrave;o bạn th&aacute;o k&iacute;nh ra khỏi mắt nha)</span></p>
+
+<p><span style="font-size:14px">Sau khi đ&atilde; cọ rửa k&iacute;nh, bạn cần phun dung dịch ng&acirc;m k&iacute;nh th&agrave;nh tia để l&agrave;m tr&ocirc;i đi to&agrave;n bộ c&aacute;c chất bẩn đ&oacute; trước khi cho k&iacute;nh &aacute;p tr&ograve;ng v&agrave;o khay đựng. Nhớ thay mới dung dịch trong khay thường xuy&ecirc;n v&agrave; để kh&ocirc; r&aacute;o khay đựng khi bạn&nbsp;đ&atilde; lấy k&iacute;nh ra nh&eacute;.</span></p>
+
+<h2><strong>4. Tr&aacute;ng rửa lại k&iacute;nh trước khi đeo</strong></h2>
+
+<p><span style="font-size:14px">Sau một đ&ecirc;m ng&acirc;m trong dung dịch, c&aacute;c chất bẩn c&ograve;n s&oacute;t lại sau khi cọ rửa k&iacute;nh sẽ bị đ&aacute;nh bật ra bởi t&aacute;c dụng của dung dịch ng&acirc;m, k&iacute;nh của bạn sẽ trở l&ecirc;n sạch hơn, ẩm v&agrave; mềm hơn. Tuy nhi&ecirc;n v&igrave; k&iacute;nh v&agrave; c&aacute;c chất bẩn vẫn c&ograve;n &quot;sống chung&quot; trong khay ng&acirc;m n&ecirc;n bạn cần tr&aacute;ng lại một lần nữa bằng dung dịch ng&acirc;m k&iacute;nh trước khi đeo nh&eacute;.</span></p>
+
+<p><span style="font-size:14px">Người viết b&agrave;i n&agrave;y cũng từng gặp một trường hợp do kh&ocirc;ng tr&aacute;ng lại k&iacute;nh trước khi đeo n&ecirc;n một bạn nữ đ&atilde; n&oacute;i rằng bạn &yacute; đeo k&iacute;nh v&agrave;o v&agrave; cảm thấy x&oacute;t v&agrave; cộm ở mắt rất kh&oacute; chịu. Tuy nhi&ecirc;n, c&aacute;c vấn đề n&agrave;y đ&atilde; ho&agrave;n to&agrave;n biến mất khi bạn đ&oacute; mang k&iacute;nh ra tr&aacute;ng rửa v&agrave; đeo lại.</span></p>
+
+<h2><strong>5. Sử dụng nước nhỏ mắt để l&agrave;m ẩm k&iacute;nh v&agrave; chống kh&ocirc; mắt</strong></h2>
+
+<p><span style="font-size:14px">Người viết b&agrave;i đ&atilde; rất ngạc nhi&ecirc;n khi nghe được những lời quảng c&aacute;o về c&aacute;c loại k&iacute;nh &aacute;p tr&ograve;ng si&ecirc;u ẩm tr&ecirc;n mạng, c&aacute;c chủ shop b&aacute;n h&agrave;ng kh&ocirc;ng biết v&ocirc; t&igrave;nh hay cố &yacute; đ&atilde; t&acirc;ng bốc sản phẩm của m&igrave;nh rằng k&iacute;nh si&ecirc;u ẩm v&agrave; kh&ocirc;ng cần d&ugrave;ng nước nhỏ mắt dưỡng ẩm???</span></p>
+
+<p><span style="font-size:14px">Sau khi đọc c&aacute;c th&agrave;nh phần của sản phẩm đ&oacute; th&igrave; thấy kh&ocirc;ng kh&aacute;c g&igrave; c&aacute;c loại k&iacute;nh &aacute;p tr&ograve;ng kh&aacute;c, c&aacute;c bạn thường dễ lầm tưởng rằng th&agrave;nh phần nước trong k&iacute;nh ch&iacute;nh l&agrave; độ ẩm của k&iacute;nh sau khi đeo.</span></p>
+
+<p><span style="font-size:14px">Thực tế ho&agrave;n to&agrave;n kh&ocirc;ng phải vậy, th&agrave;nh phần nước chỉ l&agrave; sự kết hợp trong sản xuất của từng chất liệu, th&ocirc;ng thường độ ngậm nước của k&iacute;nh cao sẽ khiến k&iacute;nh mềm hơn, dế hấp thu oxy hơn nhưng ở một mức n&agrave;o đ&oacute; cũng sẽ nhanh kh&ocirc; hơn.&nbsp;Do vậy việc d&ugrave;ng nước nhỏ mắt dưỡng ẩm d&agrave;nh cho k&iacute;nh &aacute;p tr&ograve;ng l&agrave; kh&ocirc;ng thể thiếu c&aacute;c bạn nh&eacute;.</span></p>
+
+<p><img alt="vệ sinh kính áp tròng" src="/webroot/img/images/ve-sinh-kinh-ap-trong-3.jpg" style="height:194px; line-height:1.6em; width:259px" /></p>
+
+<h2><strong>6. Kh&ocirc;ng t&aacute;i sử dụng dung dịch ng&acirc;m đ&atilde; hết thời hạn sử dụng</strong></h2>
+
+<p><span style="font-size:14px">( thường l&agrave; 90 ng&agrave;y kể từ ng&agrave;y mở sản phẩm, c&oacute; khuyến c&aacute;o của nh&agrave; sản xuất tr&ecirc;n vỏ hộp nh&eacute;)</span></p>
+
+<p><span style="font-size:14px">Nếu c&aacute;c bạn thực hiện đ&uacute;ng thao t&aacute;c vệ sinh k&iacute;nh &aacute;p tr&ograve;ng th&igrave; 100% dung dịch sẽ hết đ&uacute;ng kỳ hạn, thậm ch&iacute; c&ograve;n hết trước ng&agrave;y khuyến c&aacute;o của nh&agrave; sản xuất đến chục ng&agrave;y lu&ocirc;n. Do đ&oacute; bạn n&agrave;o c&ograve;n dung dịch thừa sau 3 th&aacute;ng th&igrave; cần xem lại quy tr&igrave;nh vệ sinh k&iacute;nh của m&igrave;nh chắc chắn l&agrave; kh&ocirc;ng chuẩn.</span></p>
+
+<p><span style="font-size:14px">L&yacute; do kh&aacute;c để bạn kh&ocirc;ng n&ecirc;n t&aacute;i sử dụng dung dịch c&ograve;n thừa l&agrave; c&aacute;c dung dịch c&ograve;n lại kh&ocirc;ng c&ograve;n an to&agrave;n nữa, bản th&acirc;n dung dịch ng&acirc;m chứa rất &iacute;t chất bảo quản thậm ch&iacute; c&oacute; loại c&ograve;n kh&ocirc;ng c&oacute; chất bảo quản. Từ khi bạn mở nắp sản phẩm th&igrave; c&aacute;c vi khuẩn trong kh&ocirc;ng kh&iacute; đ&atilde; bắt đầu tấn c&ocirc;ng lọ dung dịch n&agrave;y. Sau một khoảng thời gian &quot; đ&aacute;nh nhau&quot; th&igrave; c&aacute;c chất bảo quản hết t&aacute;c dụng (sau thời gian khuyến c&aacute;o của nh&agrave; sản xuất) Dung dịch kh&ocirc;ng c&ograve;n v&ocirc; tr&ugrave;ng nữa, c&aacute;c t&aacute;c dụng tẩy rửa mảng b&aacute;m cũng kh&ocirc;ng c&ograve;n v&agrave; n&oacute; trở th&agrave;nh m&ocirc;i trường ẩm, nhớt m&agrave; bọn vi khuẩn rất th&iacute;ch đấy.</span></p>
+
+<h2><strong>7. Đeo k&iacute;nh mắt khi đi ra đường để bảo vệ mắt</strong></h2>
+
+<p><span style="font-size:14px">Đeo k&iacute;nh m&aacute;t c&ograve;n gi&uacute;p bạn kh&ocirc;ng bị ch&oacute;i khi trời nắng v&agrave; rất hiệu quả để tr&aacute;nh bui bay v&agrave;o mắt đấy. Nếu bạn đang đeo k&iacute;nh &aacute;p tr&ograve;ng m&agrave; bị bui bay v&agrave;o mắt th&igrave;... chắc chắn l&agrave; sẽ đau hơn khi kh&ocirc;ng d&ugrave;ng k&iacute;nh bạn nh&eacute; v&agrave; tất nhi&ecirc;n l&agrave; hạt bụi đ&oacute; sẽ l&agrave;m xước k&iacute;nh &aacute;p tr&ograve;ng hay thậm ch&iacute; xước lu&ocirc;n mắt bạn. k&iacute;nh &aacute;p tr&ograve;ng m&agrave; bị xước th&igrave; chỗ xước đ&oacute; sẽ l&agrave; một nơi tr&uacute; ẩn tuyệt vời của vi khuẩn đấy.</span></p>
+
+<p><img alt="vệ sinh kính áp tròng" src="/webroot/img/images/ve-sinh-kinh-ap-trong-4.jpg" style="height:213px; line-height:1.6em; width:237px" /></p>
+
+<h2><strong>8. Tr&aacute;nh nước m&aacute;y v&agrave;o mắt</strong></h2>
+
+<p><span style="font-size:14px">Cho d&ugrave; bạn c&oacute; đang đeo k&iacute;nh &aacute;p tr&ograve;ng hay kh&ocirc;ng th&igrave; bạn cũng n&ecirc;n tr&aacute;nh để nước m&aacute;y tiếp x&uacute;c trực tiếp với mắt ( nước m&aacute;y m&agrave; c&ograve;n kh&ocirc;ng được th&igrave; c&aacute;c loại nước như nước bể bơi lại c&agrave;ng kh&ocirc;ng được nha). L&yacute; do l&agrave; trong nước m&aacute;y c&oacute; tồn tại c&aacute;c loại vi khuẩn&nbsp;<strong>Bacterial keratitis</strong><strong>&nbsp;v&agrave;&nbsp;</strong><strong>acanthamoeba</strong>, hai loại vi khuẩn n&agrave;y khi th&acirc;m nhập v&agrave;o mắt sẽ g&acirc;y ra bệnh vi&ecirc;m gi&aacute;c mạc, trầm trọng hơn c&oacute; thể g&acirc;y m&ugrave;. Đa số c&aacute;c bạn khi bị vi&ecirc;m gi&aacute;c mạc đều l&agrave; do 2 loại vi khuẩn n&agrave;y v&igrave; ch&uacute;ng c&oacute; trong nước m&aacute;y sinh hoạt h&agrave;ng ng&agrave;y chứ kh&ocirc;ng phải tại ch&uacute;ng sống trong k&iacute;nh &aacute;p tr&ograve;ng đ&acirc;u nh&eacute;.</span></p>
+
+<h2><strong>9. Cần kiểm tra mắt định kỳ</strong></h2>
+
+<p><span style="font-size:14px">Cơ thể mỗi người thường c&oacute; thay đổi, l&uacute;c khỏe l&uacute;c yếu, mắt bạn cũng vậy, kiểm tra mắt định kỳ l&agrave; c&aacute;ch tốt nhất để ph&ograve;ng tr&aacute;nh mọi nguy cơ bệnh tật v&agrave; bạn cũng c&oacute; thể biết được loại k&iacute;nh &aacute;p tr&ograve;ng m&igrave;nh đang d&ugrave;ng c&oacute; th&iacute;ch hợp với mắt bạn l&acirc;u d&agrave;i kh&ocirc;ng.</span></p>
+
+<p><span style="font-size:14px">Nhất l&agrave; với c&aacute;c bạn thường xuy&ecirc;n sử dụng k&iacute;nh &aacute;p tr&ograve;ng m&agrave;u cận thị hoặc kh&ocirc;ng cận, c&aacute;c loại k&iacute;nh gi&atilde;n tr&ograve;ng m&agrave;u cận thị hoặc kh&ocirc;ng cận thị, những loại k&iacute;nh n&agrave;y hiện nay được b&aacute;n rất nhiều v&agrave; kh&ocirc;ng phải loại n&agrave;o cũng đảm bảo an to&agrave;n cho mắt bạn v&igrave; h&agrave;ng nh&atilde;i k&eacute;m chất lượng của Trung Quốc kh&aacute; nhiều. Thay đổi m&agrave;u mắt l&agrave; l&agrave;m đẹp m&agrave; l&agrave;m đẹp th&igrave; cần phải an to&agrave;n n&ecirc;n c&aacute;c bạn nhớ mua k&iacute;nh ở nơi uy t&iacute;n v&agrave; thăm kh&aacute;m mắt thường xuy&ecirc;n &iacute;t nhất 1 năm 1 lần nh&eacute;.</span></p>
+				
+						<section class="related">
+			<header>
+			<div class="title">
+				<span class="icon"></span>
+				<span class="">Bài viết liên quan</span>
+			</div>
+			</header>
+			<div id="show_post_related" class="carousel slide" data-interval="false">
+	<div class="carousel-inner">	
+				<div  class="item active">
+			<div class="row">
+							<div class="col-lg-4 col-xs-12 col-sm-4 col-md-4 post">
+				<div class="thumb">
+						<a href="/cam-nang-tu-van/cach-nhan-biet-kinh-ap-trong-phu-hop-voi-ban.html" title="Cách nhận biết kính áp tròng phù hợp với bạn" target="_self" class=""><img src="/img/posts/kinh-ap-trong-4u0-222x137-2.jpg" alt="Cách nhận biết kính áp tròng phù hợp với bạn" width="222" height="137" /></a>					</div> <!--  end .thumb -->
+				<a href="/cam-nang-tu-van/cach-nhan-biet-kinh-ap-trong-phu-hop-voi-ban.html" title="Cách nhận biết kính áp tròng phù hợp với bạn" target="_self" class="name">Cách nhận biết kính áp tròng phù hợp với bạn</a><p class="sumary"></p><a href="/cam-nang-tu-van/cach-nhan-biet-kinh-ap-trong-phu-hop-voi-ban.html" title="Read more" class="readmore right">Chi tiết</a>			</div>
+				</div>
+		</div>
+			</div>
+	<a class="right carousel-control" href="javascript:;" role="button">&#62;</a>
+	<a class="left carousel-control" href="javascript:;" role="button">&#60;</a>
+</div>
+<script>
+$(document).ready(function(){
+    // Activate Carousel
+    $("#show_post_related").carousel();
+    // Enable Carousel Controls
+    $("#show_post_related .left").click(function(){
+        $("#show_post_related").carousel("prev");
+    });
+    $("#show_post_related .right").click(function(){
+        $("#show_post_related").carousel("next");
+    });
+});
+</script>		</section><!--  end .related -->
+				
+							</div> <!--  end .des -->
+</article> <!--  end .box_content --></div>			</div>
+		</div> <!--  end .container -->
+	</div>
+	<div class="full_width top_footer">
+		<div class="container">
+			<div class="row">
+				<div class="col-xs-12">
+	<a href="/huong-dan-mua-hang" id="bg_box1" class="col-xs-12 col-sm-4 col-md-3 col-lg-2 bg_box icon">
+		<span class="title_orther">
+			<p>Đặt hàng</p>
+		</span>
+		<span class="desc">
+			<p>Lựa chọn sản phẩm ưng ý.<br/>
+			Click chọn mua hàng.</p>
+		</span>
+	</a>
+	
+	<a href="/huong-dan-mua-hang" id="bg_box2" class="col-xs-12 col-sm-4 col-md-3 col-lg-2 bg_box icon">
+		<span class="title_orther">
+			<p>Thanh toán</p>
+		</span>
+		<span class="desc">
+			<p>Chọn hình thức thanh toán<br/>
+			Chuyển khoản/COD</p>
+		</span>
+	</a>
+	
+	<a href="/huong-dan-mua-hang" id="bg_box3" class="col-xs-12 col-sm-4 col-md-3 col-lg-2 bg_box icon">
+		<span class="title_orther">
+			<p>Xác minh</p>
+		</span>
+		<span class="desc">
+			<p>Cửa hàng gọi điện xác nhận<br/>
+			đơn hàng</p>
+		</span>
+	</a>
+	
+	<a href="/huong-dan-mua-hang" id="bg_box4" class="col-xs-12 col-sm-4 col-md-3 col-lg-2 bg_box icon">
+		<span class="title_orther">
+			<p>Chuyển hàng</p>
+		</span>
+		<span class="desc">
+			<p>Giao hàng trên toàn quốc</p>
+		</span>
+	</a>
+	
+	<a href="/huong-dan-mua-hang" id="bg_box5" class="col-xs-12 col-sm-4 col-md-3 col-lg-2 bg_box icon">
+		<span class="title_orther">
+			<p>Nhận hàng</p>
+		</span>
+		<span class="desc">
+			<p>Nhận hàng
+			thanh toán COD</p>
+		</span>
+	</a>
+</div>			</div>
+		</div>
+	</div>
+	<div class="full_width footer">
+		<div class="container">
+			<div class="row">
+				<footer id="footer" class="col-xs-12 fdesktop">
+		
+	<address>
+		<table style="line-height:20.8px; width:100%">
+	<tbody>
+		<tr>
+			<td style="vertical-align:top; width:198px">
+			<p><strong>K&Iacute;NH &Aacute;P TRONG 4U</strong></p>
+			</td>
+			<td style="vertical-align:top; width:178px">
+			<p><strong>SẢN PHẨM</strong></p>
+			</td>
+			<td style="vertical-align:top; width:178px">
+			<p><strong>KẾT NỐI</strong></p>
+			</td>
+			<td style="vertical-align:middle; width:201px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="vertical-align:top; width:198px">&nbsp;</td>
+			<td style="vertical-align:top; width:178px">&nbsp;</td>
+			<td style="vertical-align:top; width:178px">&nbsp;</td>
+			<td style="vertical-align:middle; width:201px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="vertical-align:top; width:198px">
+			<p><img alt="" src="/webroot/img/images/ADD.png" style="height:14px; width:9px" />&nbsp;Địa chỉ: Nh&agrave; A7, Đại học Y H&agrave; Nội (Số 1 T&ocirc;n Thất T&ugrave;ng, Trung Tự, Đống Đa, H&agrave; Nội)</p>
+
+			<p><img alt="" src="/webroot/img/images/phone.png" style="height:13px; width:12px" />&nbsp;Mobile: 0982 31 54 59</p>
+
+			<p><img alt="" src="/webroot/img/images/email.png" style="height:8px; width:12px" />&nbsp;Email: <a href="mailto:kinhaptrong4u@gmail.com">kinhaptrong4u@gmail.com</a></p>
+
+			<p><img alt="" src="/webroot/img/images/navi.png" style="height:9px; width:10px" />&nbsp;<a href="http://kinhaptrong4u.vn/lienhe.html">Xem bản đồ</a></p>
+			</td>
+			<td style="vertical-align:top">
+			<ul>
+				<li><a href="http://kinhaptrong4u.vn/kinh-ap-trong">K&iacute;nh &aacute;p tr&ograve;ng</a></li>
+				<li><a href="http://kinhaptrong4u.vn/kinh-gian-trong">K&iacute;nh gi&atilde;n tr&ograve;ng</a></li>
+				<li><a href="http://kinhaptrong4u.vn/nuoc-ngam-va-nho-mat">Nước ng&acirc;m v&agrave; nhỏ mắt</a></li>
+				<li><a href="http://kinhaptrong4u.vn/phu-kiem">Phụ kiện</a></li>
+			</ul>
+			</td>
+			<td style="text-align:left; vertical-align:top">
+			<p><a href="https://www.facebook.com/kinhaptrong4u/"><img alt="" src="/webroot/img/images/fb.png" style="height:35px; line-height:20.8px; opacity:0.9; text-align:center; width:35px" /></a>&nbsp;&nbsp;<img alt="" src="/webroot/img/images/gg.png" style="height:35px; line-height:20.8px; opacity:0.9; text-align:center; width:35px" />&nbsp;&nbsp;<img alt="" src="/webroot/img/images/tw.png" style="height:35px; line-height:20.8px; opacity:0.9; text-align:center; width:35px" /></p>
+			</td>
+			<td style="vertical-align:top"><img alt="" src="/webroot/img/images/CMDA.png" style="height:71px; width:199px" /></td>
+		</tr>
+	</tbody>
+</table>
+	</address>
+	<p class="design">
+		</p>
+	
+</footer> <!--  end #footer -->
+
+
+<script type="text/javascript" src="/js/social_like.js"></script><footer id="footer" class="col-xs-12 fmobile">
+	<address>
+		<p><strong>K&Iacute;NH &Aacute;P TRONG 4U</strong></p>
+
+<p>&nbsp;</p>
+
+<p><img alt="" src="/webroot/img/images/ADD.png" style="height:14px; width:9px" />&nbsp;Địa chỉ: Nh&agrave; A7, Đại học Y H&agrave; Nội (Số 1 T&ocirc;n Thất T&ugrave;ng, Trung Tự, Đống Đa, H&agrave; Nội)</p>
+
+<p><img alt="" src="/webroot/img/images/phone.png" style="height:13px; width:12px" />&nbsp;Mobile: 0982 31 54 59</p>
+
+<p><img alt="" src="/webroot/img/images/email.png" style="height:8px; width:12px" />&nbsp;Email: <a href="mailto:kinhaptrong4u@gmail.com">kinhaptrong4u@gmail.com</a></p>
+
+<p><img alt="" src="/webroot/img/images/navi.png" style="height:9px; width:10px" />&nbsp;<a href="http://kinhaptrong4u.vn/lienhe.html">Xem bản đồ</a></p>
+	</address>
+</footer> <!--  end #footer -->
+	
+			
+			</div>
+			<div class="row">
+				<div class="col-xs-12">
+														</div>
+			</div>
+		</div>
+	</div>
+	<p id="back-top" style="display: block;"><a href="javascript:;" title="Lên đầu"><span>&nbsp;</span></a></p>
+
+	<div id="message_top">
+		<p id="loading">Đang xử lý...</p>
+	</div> <!--  end #message_top -->
+	<!-- Quảng cáo popup -->
+			<noscript><div class="mesages_full"><div><p>Bạn phải bật JavaScript</p></div></div></noscript>
+
+				<script type="text/javascript">
+		//Show thông tin giỏ hàng
+		function showCart(){
+			$.ajax({
+				type:'post',
+				url:'/ajax/s-h-o-w-c-a-r-t',
+				data:'lang=vi',
+				beforeSend:function(){
+					$("#message_top").show();
+				},
+				success:function(result){
+					$("#show_cart").html(result);
+					$("#message_top").hide();
+				}
+			});
+		}
+	
+		//Đưa sản phẩm vào giỏ hàng
+		function addToCart(id,qty,add,sighted_l,sighted_r){
+			$.ajax({
+				type:'post',
+				url:'/ajax/a-d-d-t-o-c-a-r-t',
+				data:'id='+id+'&qty='+qty+'&add='+add+'&lang=vi'+'&sighted_l='+sighted_l+'&sighted_r='+sighted_r,
+				beforeSend:function(){
+					$("#message_top").show();
+				},
+				success:function(result){
+					$(".number_product_cart").text(result);
+					$(".number_product_cart").addClass('bg_cart');
+					showCart();
+					$("#message_top").hide();
+				}
+			});
+		}
+	
+		//Xóa sản phẩm khỏi giỏ hàng
+		function delProCart(id){
+			var c = confirm("Bạn có chắc chắn muốn xóa sản phẩm này không?");
+			if(c==true){
+				$.ajax({
+					type:'post',
+					url:'/ajax/d-e-l-p-r-o-c-a-r-t',
+					data:'id='+id,
+					beforeSend:function(){
+						$("#message_top").show();
+					},
+					success:function(result){
+						$(".number_product_cart").text(result);
+						showCart();
+						$("#message_top").hide();
+					}
+				});
+			}
+		}
+	</script>
+	<div id="show_cart"></div>
+	    <!--Start of Tawk.to Script-->
+    <script type="text/javascript">
+    var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+    (function(){
+    var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+    s1.async=true;
+    s1.src='https://embed.tawk.to/578c45c5c9a9fefa7910ec19/default';
+    s1.charset='UTF-8';
+    s1.setAttribute('crossorigin','*');
+    s0.parentNode.insertBefore(s1,s0);
+    })();
+    </script>
+    <!--End of Tawk.to Script-->
+    
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+    
+      ga('create', 'UA-76655564-2', 'auto');
+      ga('send', 'pageview');
+    
+    </script>
+</body>
+</html>
